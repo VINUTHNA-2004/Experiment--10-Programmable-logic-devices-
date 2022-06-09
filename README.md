@@ -21,11 +21,11 @@ Figure -01 PROM
 
 
 ### PROGRAM 
-/*
+```
 Program for PROM 
 Developed by: D.R.Vinuthna
 RegisterNumber:  212221230017
-*/
+```
 ```
 module ROM(out, addr, CS);
 output[15:0] out;
@@ -78,4 +78,4 @@ endmodule
 
 
 ### RESULTS 
-
+Thus PROM using verilog is implemented and its output is validated.
